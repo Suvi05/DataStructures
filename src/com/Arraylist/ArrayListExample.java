@@ -12,7 +12,7 @@ public class ArrayListExample {
             System.out.println(intArray[i]);
         }
 
-        ArrayList<String> list= new ArrayList<>();
+        ArrayList<String> list = new ArrayList<>();
         list.add("Sumit");
         list.add("Verma");
         list.remove(1);

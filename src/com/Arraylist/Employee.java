@@ -4,7 +4,7 @@ public class Employee {
 
     private String firstname;
     private String lastname;
-    private  int id;
+    private int id;
 
     //Boiler Plate code
     public Employee(String firstname, String lastname, int id) {
